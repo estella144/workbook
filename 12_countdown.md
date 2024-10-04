@@ -2,6 +2,8 @@
 
 [Previous Task](11_five_a_day.md) | [Next Task](13_times_tabler.md) | [Back to Index](00_index.md)
 
+Design and implement a program that allows the user to enter a positive number. The program displays a countdown from the number to 0. (eg. the user enters **10** and the program displays **10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0**)
+
 ## Flowchart or Pseudocode
 
 ## Variables and Other Data Structures
