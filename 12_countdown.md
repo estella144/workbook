@@ -14,10 +14,15 @@
 ## Test Plan
 |Inputs|Expected Output|Actual Outputs|Comments|
 |-|-|-|-|
+|10| | | |
+|100| | | |
+|1000000| | | |
+|0| | | |
+|-5| | | |
 | | | | |
 
 ## Testing
 
 Use the table above to identify any issues with your program.
 
-What is the purpose of the 3rd, 4th and 5th tests in the test plan?
+What is the purpose of the 5th test in the test plan?
