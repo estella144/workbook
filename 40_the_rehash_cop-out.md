@@ -8,7 +8,7 @@ Several of the earlier challenges in this book would benefit from added file-han
 
 Look again at one of the following and consider how file handling could be usefully incorporated.
 
-[11. Cafe Adder](11_cafe_adder.md)
+[10. Cafe Adder](10_cafe_adder.md)
 
 [18. Bingo Bingo](18_bingo_bingo.md)
 
